@@ -1,0 +1,30 @@
+body{
+  background-image:url(https://cs-mordownia.pl/uploads/monthly_2020_06/1602b26c05ee78120695d592a68b8912.gif.0480c3b34cb6d52cdd4be39dd7830ea0.gif);
+
+}
+#sans{
+  color: #00FF00;
+  text-align: center;
+
+}
+.btn {
+  background-color: #2b8016;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.btn:hover {
+  background-color: #1f610f;
+}
+
+.konto{
+  color: #00ff00;
+  text-align: center;
+  letter-spacing: 2px;
+  animation: mymove 15s infinite;
+}
+
+@keyframes mymove {
+  20% {letter-spacing: 20px;}
